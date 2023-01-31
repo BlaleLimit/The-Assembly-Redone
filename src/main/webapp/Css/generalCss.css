@@ -1,0 +1,11 @@
+
+@font-face {
+  font-family: 'Lato';
+  src: url('/Lato.ttf')  format('truetype');
+}
+
+body{
+    margin:0;
+    background:#bababa;
+    font-family: 'Lato', sans-serif;
+}
