@@ -1,0 +1,89 @@
+body{
+    background: #bababa;
+    margin: 0;
+}
+
+.login-div{
+    border-radius: 25px;
+    margin: 100px auto;
+    width: 70%;
+    background-color: #d3d3d3;
+    padding: 60px;
+    justify-content: center;  
+    align-items: center;  
+}
+textarea {
+  height:200px;
+  resize: none;
+  max-width: 100%;
+}
+.logo{
+    display: block;
+    width: 300px;
+    border-radius: 50%;
+    margin: 0 auto auto 0;
+}
+
+.logo img{
+    width: 100%;
+}
+    
+
+.title{
+    font-weight: bolder;
+    text-align: center;
+}
+
+.form{
+    width: 100%;
+    margin-top: 30px;
+}
+
+.form input{
+    width: 95%;
+    font-size: 15px;
+    padding: 5px 10px 5px 2.5px;
+    border: none;
+    outline: none;
+    background: none;
+}
+
+.name, .orderid{
+    display: block;
+    border-radius: 30px;
+    border: 1px solid rgba(0,0,0,0.2);
+    padding: 6px;
+    margin: 10px 0;
+    background: white;
+}
+
+.problem{
+    display: block;
+    border-radius: 30px;
+    border: none;
+    padding: 6px;
+    margin: 10px 0;
+    background:none;
+}
+
+.form svg{
+    height: 25px;
+    margin-bottom: -5px;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+button.submit-button{
+    width: 100%;
+    padding: 12px 10px;
+    border: none;
+    font-size: 18px;
+    border-radius: 30px;
+    background-color: black;
+    color: #fff;
+    margin-bottom: 3px;
+}
+
+button:hover{
+    background-color: darkgray;
+}
