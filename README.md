@@ -13,7 +13,7 @@ Functions includes:
 * checkout
 * PDF generation(Inventory, Finance, and Customer Invoice)
 
-This project is an updated version of The-Assembly project by Rai-tez. This makes use of the Maven archetype.
+This project is an updated version of [The-Assembly](https://github.com/Rai-tez/The-Assembly) project by Rai-tez, built with the Maven archetype.
 
 Updates:
 * Changed archetype from Netbeans to Maven with IntelliJ.
