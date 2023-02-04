@@ -1,4 +1,4 @@
-# The-Assembly-Redone
+# the-assembly
 
 The Assembly is an online store web application that sells pc related parts and peripherals.
 
